@@ -6,13 +6,13 @@ import Project2.DoublyLinkedList;
 import Project2.Magazine;
 
 /** 
- * @author 		Jeremy Pierce
- * Class: 		SE 3345.003 Data Structures
- * Section:		003
- * Semester:	Fall 2016
+ * @author 		
+ * Class: 		
+ * Section:		
+ * Semester:	
  * Project 3: 	BinaryTreeDriver class
  * Description: This is the driver class to demonstrate the linked list
- * Date: 		10/3/2016
+ * Date: 		
  */
 public class BinaryTreeDriver {
 
