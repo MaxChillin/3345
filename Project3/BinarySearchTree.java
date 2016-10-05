@@ -1,13 +1,13 @@
 package Project3;
 
 /** 
- * @author 		Jeremy Pierce
- * Class: 		SE 3345.003 Data Structures
- * Section:		003
- * Semester:	Fall 2016
+ * @author 		
+ * Class: 		
+ * Section:		
+ * Semester:	
  * Project 3: 	BinarySerchTree class
  * Description: This class holds the functionality for building a binary search tree
- * Date: 		10/3/2016
+ * Date: 		
  */
 public class BinarySearchTree {
 	
